@@ -22,3 +22,7 @@ It was build using `Next.Js` using `create-next-app`
   - [ ] Non-Responsibilities accomplishment
 - [ ] Life Habits
   - [ ] Efficiency 1st
+
+### Technical Side
+
+- [ ] Deploy on Github Pages
